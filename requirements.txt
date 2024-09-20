@@ -4,3 +4,4 @@ gunicorn
 opencv-python-headless
 matplotlib
 numpy
+svgwrite
